@@ -42,8 +42,8 @@ This repository contains CAD Simu electrical automation projects focused on desi
 **Complexity Level:** Beginner  
 **Skills Demonstrated:** Basic relay logic, motor protection, control circuit fundamentals
   
-![start stop](images/start_stop.png)
-![leds](images/leds_start_stop.png)
+![start stop](images/start_stop)
+![leds](images/leds_start_stop)
 
 ---
  
@@ -58,8 +58,8 @@ This repository contains CAD Simu electrical automation projects focused on desi
 **Complexity Level:** Intermediate  
 **Skills Demonstrated:** Bidirectional motor control, safety interlocking, control logic optimization
 
-![fwd_rev1](images/led_fwd_reverse.png) 
-![fwd_rev2](images/forward_reverse.png) 
+![fwd_rev1](images/led_fwd_reverse) 
+![fwd_rev2](images/forward_reverse) 
  
 ---
  
